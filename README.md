@@ -4,7 +4,7 @@ I am an undegrad student of biology majoring in molecular biosciences at the Uni
 
 ### Top programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clemensma&layout=compact)](https://github.com/fethalen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clemensma&layout=compact)](https://github.com/clemensma)
 
 
 ### Languages
