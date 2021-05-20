@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Clemens here! 👋
+
+I am an undegrad student of biology majoring in molecular biosciences at the University of Göttingen. Right now I am doing my bachelors thesis in the field of reproductive cell biology at the Max-Planck-Institute for Biophysical Chemistry also in Göttingen. Additionally I work as a pipeline developer in the field of bioinformatics at the Johann-Friedrich-Blumenbach-Institute for Zoology and Anthropology in the group Animal Evolution and Biodiversity. You can finde projects mainly concerning my work and leisurely programming on here!
 
 <!--
 **clemensma/clemensma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
