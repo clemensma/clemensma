@@ -1,6 +1,6 @@
-### Hi there, Clemens here! 👋
+### Hi there, Clemens (he/him) here! 👋
 
-I am an undegrad student of biology majoring in molecular biosciences at the University of Göttingen. Right now I am doing my bachelors thesis in the department of meiosis at the Max-Planck-Institute for Biophysical Chemistry Göttingen where I try to vitrify germinal vesicle oocytes. Additionally I work as a pipeline developer in the field of bioinformatics at the Johann-Friedrich-Blumenbach-Institute for Zoology and Anthropology in the group Animal Evolution and Biodiversity. You can find projects mainly concerning my work and leisurely programming on here!
+Right now I am a masters student in the Developmental, Neural and Behavioral Biology programm at the University of Göttingen. In my studies I focus on cellular developmental as well as systes biology. Additionally I work as a pipeline developer in the field of bioinformatics at the Johann-Friedrich-Blumenbach-Institute for Zoology and Anthropology in the group Animal Evolution and Biodiversity. You can find projects mainly concerning my work and leisurely programming on here!
 
 ### Top programming languages
 
