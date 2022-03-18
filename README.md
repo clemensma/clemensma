@@ -1,6 +1,6 @@
 ### Hi there, Clemens (he/him) here! 👋
 
-Right now I am a masters student in the Developmental, Neural and Behavioral Biology programm at the University of Göttingen. In my studies I focus on cellular developmental as well as systems biology. Additionally I work as a pipeline developer in the field of bioinformatics at the Johann-Friedrich-Blumenbach-Institute for Zoology and Anthropology in the group Animal Evolution and Biodiversity. You can find projects mainly concerning my work and leisurely programming on here!
+Right now I am a masters student in the Developmental, Neural and Behavioral Biology programm at the University of Göttingen. In my studies I focus on cellular, developmental and systems biology. Additionally I work as a bioinformatics pipeline developer at the Johann-Friedrich-Blumenbach-Institute for Zoology and Anthropology in the group Animal Evolution and Biodiversity. You can find projects mainly concerning my work and leisurely programming on here!
 
 ### Top programming languages
 
