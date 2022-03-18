@@ -10,8 +10,8 @@ Right now I am a masters student in the Developmental, Neural and Behavioral Bio
 ### Languages
 
 - I am fluent in English
-- Deutsch ist meine Muttersprache
-- انا أتكلم العربية قليلا
+- Deutsch ist meine Muttersprache (I am a native German speaker)
+-  انا أتكلم العربية قليلا (I speak a little Arabic)
 
 <!--
 **clemensma/clemensma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
