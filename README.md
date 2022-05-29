@@ -7,7 +7,7 @@ Right now I am a masters student in the Developmental, Neural and Behavioral Bio
 <div>
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title='python' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" title='R' width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/rstudio-original.svg" title='rstudio' width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" title='rstudio' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title='bash' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title='jupyter' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title='vscode' width="40" height="40"/>&nbsp
