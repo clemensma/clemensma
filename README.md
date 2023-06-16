@@ -17,7 +17,7 @@ Right now I am a masters student in the Developmental, Neural and Behavioral Bio
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" title='anaconda' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title='Docker' width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title='linux' width="40" height="40"/>&nbsp
-<img src="https://github.com/ropensci/rfishbase/blob/master/man/figures/logo.svg" title='linux' width="40" height="40"/>&nbsp
+<img src="https://github.com/ropensci/rfishbase/blob/master/man/figures/logo.svg" title='fishbase' width="40" height="40"/>&nbsp
 </div>
 <p>
 
