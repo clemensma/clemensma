@@ -1,6 +1,6 @@
 ### Hi there, Clemens (he/him) here! 👋
 
-Right now I am a masters student in the Developmental, Neural and Behavioral Biology programm at the University of Göttingen. In my studies I focus on cellular, developmental and systems biology. Currently I am writing my masters thesis at the Department of Tissue Dynamics and Regeneration at the MPI for multidisciplinary sciences in Goettingen. You can find projects mainly concerning my work and leisurely programming on here!
+I am a PhD student at MPI for Multidisciplinary Sciences in Göttingen. My work at the research group "Genome Architecture and Regulation" headed by Marieke Oudelaar focusses on understanding the role of chromatin remodelers on gene expression. You can find projects mainly concerning my work and leisurely programming on here!
 
 ### My tools and programming languages
 
