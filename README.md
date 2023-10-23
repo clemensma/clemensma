@@ -1,6 +1,6 @@
 ### Hi there, Clemens (he/him) here! 👋
 
-I am a PhD student at MPI for Multidisciplinary Sciences in Göttingen. My work at the research group "Genome Architecture and Regulation" headed by Marieke Oudelaar focusses on understanding the role of chromatin remodelers on gene expression. You can find projects mainly concerning my work and leisurely programming on here!
+I am a PhD student at MPI for Multidisciplinary Sciences in Göttingen. Among other things, my work at the research group "Genome Organization and Regulation" headed by Dr. Marieke Oudelaar focusses on understanding the role of chromatin remodelers on gene expression. You can find projects mainly concerning my work and leisurely programming on here!
 
 ### My tools and programming languages
 
